@@ -21,7 +21,7 @@ II. Considerações sobre os dados.
 1. Instalar os requisitos
 
 ```sh
-pip install -f requirements.txt
+pip install -r requirements.txt
 ```
 
 2. Executar 
