@@ -18,7 +18,15 @@ II. Considerações sobre os dados.
 
 **Como executar?**
 
-Basta rodar o arquivo `script.ipynb` num aplicativo que suporte notebooks python.
+1. Instalar os requisitos
+
+```sh
+pip install -f requirements.txt
+```
+
+2. Executar 
+
+Executar o arquivo `questao4.ipynb` num aplicativo que suporte notebooks python.
 
 ## Questão 5
 
